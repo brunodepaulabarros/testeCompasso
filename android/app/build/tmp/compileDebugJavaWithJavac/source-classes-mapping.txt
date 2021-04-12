@@ -1,0 +1,14 @@
+com/testecompasso/ReactNativeFlipper.java
+ com.testecompasso.ReactNativeFlipper
+ com.testecompasso.ReactNativeFlipper$1
+ com.testecompasso.ReactNativeFlipper$2
+ com.testecompasso.ReactNativeFlipper$2$1
+com/testecompasso/BuildConfig.java
+ com.testecompasso.BuildConfig
+com/testecompasso/MainActivity.java
+ com.testecompasso.MainActivity
+com/testecompasso/MainApplication.java
+ com.testecompasso.MainApplication
+ com.testecompasso.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

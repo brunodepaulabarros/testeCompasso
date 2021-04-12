@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashscreen.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_splash.xml.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Projetos\\git\\testeCompasso\\testeCompasso\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

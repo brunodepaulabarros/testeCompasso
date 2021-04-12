@@ -1,0 +1,1 @@
+export const POKEMON_REQUEST = 'POKEMON_REQUEST'
